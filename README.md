@@ -1,4 +1,3 @@
 # Fix-my-code-0
-Solution \
-Task 0- reorganize code to capture FizzBuzz first \
-Task 1- Change size of parsed int to 10 from 16 \
+A couple of different challenges to test out programmin knowledge by majorly \
+fixing code that is not running as expected.
